@@ -2,7 +2,7 @@
 title: 图像处理技术在电影中的应用
 date: 2020-6-17
 tags:
- - Windows
+ - picture
 categories:
  - technical
 ---

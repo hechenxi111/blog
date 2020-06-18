@@ -1,6 +1,6 @@
 module.exports = {
   "title": "樱桃没丸子",
-  "description": "关注软件开发技术与创新应用",
+  "description": "真是充实的一天",
   "dest": "public",
   "head": [
     [
@@ -56,15 +56,15 @@ module.exports = {
     },
     "friendLink": [
       {
-        "title": "云应用系统开发技术",
-        "desc": "电子书《云应用系统开发技术》",
-        "link": "https://cloudappdev.netlify.app/"
+        "title": "bilibili",
+        "desc": "哔哩哔哩干杯",
+        "link": "https://www.bilibili.com/"
       },
       {
-        "title": "午后南杂",
-        "desc": "Enjoy when you can, and endure when you must.",
-        "email": "1156743527@qq.com",
-        "link": "https://www.recoluan.com"
+        "title": "iqiyi",
+        "desc": "隐秘的角落",
+      
+        "link": "https://www.iqiyi.com/"
       }
     ],
 	"logo": "/logo_trans.png",
@@ -72,7 +72,7 @@ module.exports = {
     "searchMaxSuggestions": 10,
     "sidebar": "auto",
     "lastUpdated": "Last Updated",
-    "author": " HE Chenxi",
+    "author": " He Chenxi",
     "authorAvatar": "/avatar.png",
     //"record": "xxxx",
     "startYear": "2020"
